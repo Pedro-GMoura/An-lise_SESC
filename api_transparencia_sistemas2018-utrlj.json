@@ -1,0 +1,114 @@
+{
+  "orcamento_sesc": [
+    {
+      "ano": 2018,
+      "receitas": {
+        "total_orcamentario": 15000000,
+        "receitas_federais": 5000000,
+        "receitas_estaduais": 3000000,
+        "doacoes_privadas": 2000000,
+        "receitas_servicos": 5000000
+      },
+      "despesas": {
+        "despesas_obrigatorias": 7000000,
+        "despesas_descritivas": 3000000,
+        "total_com_folha": 2000000,
+        "total_com_gratuidade": 2000000,
+        "opex": 1000000,
+        "capex": 500000
+      }
+    },
+    {
+      "ano": 2019,
+      "receitas": {
+        "total_orcamentario": 16000000,
+        "receitas_federais": 5500000,
+        "receitas_estaduais": 3500000,
+        "doacoes_privadas": 2500000,
+        "receitas_servicos": 4500000
+      },
+      "despesas": {
+        "despesas_obrigatorias": 7500000,
+        "despesas_descritivas": 3200000,
+        "total_com_folha": 2200000,
+        "total_com_gratuidade": 2100000,
+        "opex": 1100000,
+        "capex": 600000
+      }
+    },
+    {
+      "ano": 2020,
+      "receitas": {
+        "total_orcamentario": 15500000,
+        "receitas_federais": 5300000,
+        "receitas_estaduais": 3300000,
+        "doacoes_privadas": 2000000,
+        "receitas_servicos": 4900000
+      },
+      "despesas": {
+        "despesas_obrigatorias": 7300000,
+        "despesas_descritivas": 3100000,
+        "total_com_folha": 2100000,
+        "total_com_gratuidade": 2000000,
+        "opex": 1000000,
+        "capex": 500000
+      }
+    },
+    {
+      "ano": 2021,
+      "receitas": {
+        "total_orcamentario": 17000000,
+        "receitas_federais": 6000000,
+        "receitas_estaduais": 3700000,
+        "doacoes_privadas": 2700000,
+        "receitas_servicos": 4500000
+      },
+      "despesas": {
+        "despesas_obrigatorias": 8000000,
+        "despesas_descritivas": 3400000,
+        "total_com_folha": 2300000,
+        "total_com_gratuidade": 2200000,
+        "opex": 1200000,
+        "capex": 600000
+      }
+    },
+    {
+      "ano": 2022,
+      "receitas": {
+        "total_orcamentario": 17500000,
+        "receitas_federais": 6200000,
+        "receitas_estaduais": 3800000,
+        "doacoes_privadas": 2900000,
+        "receitas_servicos": 4500000
+      },
+      "despesas": {
+        "despesas_obrigatorias": 8200000,
+        "despesas_descritivas": 3500000,
+        "total_com_folha": 2400000,
+        "total_com_gratuidade": 2300000,
+        "opex": 1300000,
+        "capex": 700000
+      }
+    },
+    {
+      "ano": 2023,
+      "receitas": {
+        "total_orcamentario": 18000000,
+        "receitas_federais": 6500000,
+        "receitas_estaduais": 4000000,
+        "doacoes_privadas": 3000000,
+        "receitas_servicos": 4500000
+      },
+      "despesas": {
+        "despesas_obrigatorias": 8500000,
+        "despesas_descritivas": 3700000,
+        "total_com_folha": 2500000,
+        "total_com_gratuidade": 2400000,
+        "opex": 1400000,
+        "capex": 800000
+      }
+    }
+  ]
+}
+
+
